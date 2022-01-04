@@ -1,6 +1,7 @@
-### Hi there, I'm Matt Onimus 👋
+Hi there, I'm Matt Onimus an Associate Director at Merck specializing in Data Programming and Data Science.
 
-I am still trying to figure out what to put in this profile...
+I currently do about 60% of my programming in R and the remaining in Javascript (React, Node.js, JQuery) and HTML/XML (SAP UI5).
+
 
 <!--
 **matton2/matton2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
