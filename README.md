@@ -1,6 +1,6 @@
 Hi there, I'm Matt Onimus an Associate Director at Merck specializing in Data Programming and Data Science.
 
-I currently do about 60% of my programming in R and the remaining in Javascript (React, Node.js, JQuery) and HTML/XML (SAP UI5).
+I currently do about 90% in Javascript (React, Node.js, JQuery) and HTML/XML (SAP UI5) and the remainder in R and Python.
 
 
 <!--
